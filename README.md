@@ -22,9 +22,9 @@ About Portland MagicNight
 
 MagicNight is hosted at Notch8workspace coworking space in inner NE
 
-'''
+```
 2117 NE Oregon St. #504
-'''
+```
 
 Much thanks to Bright Night and San Diego Magic Night for dreaming up the idea.
 
