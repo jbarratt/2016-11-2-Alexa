@@ -5,14 +5,12 @@ var expect = require('chai').expect;
 
 var app = require('../index');
 
-describe.only("Config", function(){
+describe("Config", function(){
   it("should list schema", function(){
     console.log(app.schema());
   });
 
-  it("should list utternaces", function(){
+  it("should list utterances", function(){
     console.log(app.utterances());
   });
 });
-
-
